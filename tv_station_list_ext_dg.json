@@ -32,7 +32,7 @@
       },
       {
         "name": "NxtGn 225-2",
-	"logo": "foodnetwork",      
+	"logo": "foodnetwork.png",      
         "url": ["udp://225.1.1.2:10000"]
       },
       {
