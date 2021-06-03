@@ -52,7 +52,7 @@
       },
       {
         "name": "NxtGn 225-6",
-	"logo": "A&E.png",      
+	"logo": "a&e.png",      
         "url": ["udp://225.1.1.6:10000"]
       },
       {
