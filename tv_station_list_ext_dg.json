@@ -57,7 +57,7 @@
       },
       {
         "name": "NxtGn 225-7",
-	"logo": "",      
+	"logo": "cspan.png",      
         "url": ["udp://225.1.1.7:10000"]
       },
       {
